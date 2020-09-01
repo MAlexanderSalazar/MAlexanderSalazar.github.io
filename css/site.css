@@ -1,0 +1,35 @@
+body {
+    color: #f5f5f5;
+    font-family: 'Segoe UI', 'Roboto', sans-serif;
+    background-position: center center;
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    margin-top: 10px;
+    font-size: 42px;
+    font-weight: 100;
+    line-height: 54px;
+}
+
+.app-logo {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 81px 0px;
+    width: 100%;
+}
+
+.social {
+    font-size: 24px;
+    color: #0086CD;
+}
+
+    .social a {
+        color: #0086CD;
+    }
+
+        .social a:hover {
+            color: #22A8EF;
+        }
